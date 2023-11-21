@@ -1,0 +1,73 @@
+#header {
+  flex: auto;
+  text-align: center;
+  font-size: 100px;
+  border-color: bisque;
+}
+
+body {
+  background-image: url("./assets/Stars.svg");
+}
+
+#wallet {
+  margin-top: -48px;
+  margin-right: 4px;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 16px;
+  border: 1px;
+  border-color: black;
+  background: rgb(20, 20, 20);
+  float: right;
+}
+.tabs {
+  display: flex;
+  margin: 100px;
+  padding: 50px;
+}
+.tabs2 {
+  display: flex;
+  margin: 100px;
+  padding: 50px;
+}
+
+.prod {
+  text-align: center;
+  margin: auto;
+  width: 10%;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: rgb(28, 28, 28);
+}
+.dis {
+  text-align: center;
+  margin: auto;
+  width: 10%;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: rgb(28, 28, 28);
+}
+.ret {
+  text-align: center;
+  margin: auto;
+  width: 10%;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: rgb(28, 28, 28);
+}
+.pur {
+  text-align: center;
+  margin: auto;
+  width: 10%;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: rgb(28, 28, 28);
+}
